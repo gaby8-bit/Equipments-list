@@ -1,11 +1,12 @@
 ```
 Office Equipment Manager
 
-An Java app used for keeping record of all the equipments required for an office job
+An Java app used for keeping record of all the equipments required for an office job,who reads from a .txt file.
 
 0.Exit  
 1.Display all equipment;  
-2.Display printers; 3.Display copiers;  
+2.Display printers;
+3.Display copiers;  
 4.Display computing systems;  
 5.Change the state of a piece of equipment;  
 6.Set a specific writing mode for a printer;  
